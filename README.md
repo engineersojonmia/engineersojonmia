@@ -1,6 +1,7 @@
+![I am Front End Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFIXWNlkQceiQ/profile-displaybackgroundimage-shrink_200_800/0/1658759895540?e=1664409600&v=beta&t=kpJV7nMaPyeHMAjMA9r-PfdP-YrRl8WlIwyG9IwP47A)
+
 ### Hi there 👋, my name is Engineer Sojon Mia
 #### I am Front End Web Developer
-![I am Front End Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQFIXWNlkQceiQ/profile-displaybackgroundimage-shrink_200_800/0/1658759895540?e=1664409600&v=beta&t=kpJV7nMaPyeHMAjMA9r-PfdP-YrRl8WlIwyG9IwP47A)
 
 I am a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I am strategic, goal-oriented, and always work with an end goal in mind. I created many websites for my clients. I proud myself on doing quality work and maintain excellent communication. Most of the time I work with React JS and some technologies I enjoy working with include HTML, CSS, Bootstrap, JavaScript and React JS.
 
